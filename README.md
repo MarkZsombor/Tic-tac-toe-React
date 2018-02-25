@@ -1,6 +1,6 @@
 ## Scope of Project
 
-The goal of the project is to gain further experience with creating React apps by following an official React.
+The goal of the project is to gain further experience with creating React apps by following an official React tutorial.
 
 ## Getting Started
 
